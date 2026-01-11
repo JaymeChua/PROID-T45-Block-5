@@ -1,11 +1,5 @@
+# 🛒 Singapore Grocery Ordering App
 
-  # PROID T45 Block 5
+A modern, mobile-optimized web application for ordering groceries from Singapore supermarkets. Browse Asian food products including rice, noodles, fresh produce, seafood, and more. Features include category filtering, real-time cart management, and a streamlined checkout process with delivery or self-pickup options.
 
-  This is a code bundle for PROID T45 Block 5. The original project is available at https://www.figma.com/design/mqytOhFiD4lSCGIsxqLavQ/PROID-T45-Block-5.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Built with React, TypeScript, and Tailwind CSS.
